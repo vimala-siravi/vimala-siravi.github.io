@@ -1,52 +1,48 @@
 {
-  "title": "Ritesh Portfolio",
-  "github": "riteshf",
-  "linkedin": "riteshfirodiya",
-  "website": "https://riteshf.deno.dev/",
-  "email": "firodiya.ritesh@gmail.com",
+  "title": "Vimala Siravi",
+  "github": "vimala-siravi",
+  "linkedin": "vimala-siravi",
+  "medium": "vimala1995",
+  "website": "https://vimala-siravi.deno.dev/",
+  "email": "vimala1995@gmail.com",
   "skills": [
-    "Typescript",
-    "React.js",
+    "JavaScript / TypeScript",
+    "HTML / CSS / Tailwind / MUI",
+    "React.js / Redux",
+    "Bootstrap / Sass",
+    "Storybook",
     "Node.js",
-    "Deno",
-    "MongoDB",
-    "PostgreSQL",
-    "Git",
-    "ReactNative",
-    "Chakra-UI",
-    "CSS",
-    "Antd",
-    "Tailwind",
-    "MUI"
+    "Jest",
+    "React-Testing-Library"
   ],
   "experiences": [
     {
-      "company": "Masai School",
-      "position": "SDE-3",
-      "from": "October 2021",
+      "company": "GS Lab",
+      "position": "Senior Software Engineer",
+      "from": "Decemeber 2022",
       "to": "Present",
-      "companyLink": "https://masaischool.com"
-    },
-    {
-      "company": "Swiggy (Contract by Recro)",
-      "position": "Senior Software Engineer ",
-      "from": "November 2020",
-      "to": "September 2021",
-      "companyLink": "https://www.swiggy.com/"
+      "companyLink": "https://www.gslab.com/"
     },
     {
       "company": "Globant",
-      "position": "Senior Software  Engineer",
-      "from": "September 2019",
-      "to": "November 2020",
+      "position": "Software Engineer ",
+      "from": "April 2021",
+      "to": "December 2022",
       "companyLink": "https://www.globant.com/"
     },
     {
-      "company": "Confluxsys",
-      "position": "Software  Engineer",
-      "from": "June 2017",
-      "to": "September 2019",
-      "companyLink": "http://www.confluxsys.com/confluxsys/"
+      "company": "Sungard Availability Services (Acquired by 11:11 Systems)",
+      "position": "Associate Engineer",
+      "from": "February 2019",
+      "to": "April 2021",
+      "companyLink": "hhttps://1111systems.com/resources/1111-systems-completes-acquisition-of-sungard-as-cm/"
+    },
+    {
+      "company": "Zensar Technologies",
+      "position": "Project Trainee",
+      "from": "March 2018",
+      "to": "July 2018",
+      "companyLink": "https://www.zensar.com/"
     }
   ],
   "education": [
@@ -55,12 +51,6 @@
       "degree": "Bachelor in Computer Engineering",
       "from": "2013",
       "to": "2017"
-    },
-    {
-      "institution": "Vishwakarma Institue of Technology",
-      "degree": "Higher Secondary School",
-      "from": "2011",
-      "to": "2013"
     }
   ]
 }

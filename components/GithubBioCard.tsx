@@ -30,7 +30,7 @@ const GithubBioCard = (
           </div>
         </div>
         <a
-          href={"/resume.pdf"}
+          href={"/Vimala_Siravi_FrontEnd_Developer.pdf"}
           target="_blank"
           className="btn btn-outline btn-sm text-xs mt-6 opacity-70"
           download

@@ -9,7 +9,7 @@ const GitIntroduction = (props: GitIntroduction) => {
   return (
     <>
       <Head>
-        <title>Ritesh Portfolio</title>
+        <title>Vimala Siravi Portfolio</title>
         <style dangerouslySetInnerHTML={{ __html: CSS }} />
       </Head>
       <Card>

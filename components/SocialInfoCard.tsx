@@ -5,6 +5,7 @@ import IconBuildingSkyscraper from "https://deno.land/x/tabler_icons_tsx@0.0.2/t
 import IconGlobe from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/globe.tsx";
 import IconPhoneCall from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/phone-call.tsx";
 import IconMail from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/mail.tsx";
+import IconBrandMedium from "https://deno.land/x/tabler_icons_tsx@0.0.2/tsx/brand-medium.tsx";
 
 import ListItem from "./ListItem.tsx";
 import Card from "../layout/Card.tsx";
@@ -15,6 +16,7 @@ type SocialInfoCardProps = {
   location?: string;
   company?: string;
   linkedin?: string;
+  medium?: string;
   website?: string;
   phone?: string;
   email?: string;
@@ -50,6 +52,14 @@ const SocialInfoCard = (props: SocialInfoCardProps) => {
       icon: <IconBrandLinkedin className="mr-2" />,
       value: props.linkedin,
       link: `https://www.linkedin.com/in/${props.linkedin}`,
+    });
+  }
+  if(props.medium) {
+    data.push({
+      title: "Medium",
+      icon: <IconBrandMedium className="mr-2" />,
+      value: props.medium,
+      link: `https://${props.medium}.medium.com/`
     });
   }
   if (props.website) {

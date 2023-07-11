@@ -1,4 +1,4 @@
-### [DEMO Link](https://riteshf.deno.dev/)
+### [DEMO Link](https://vimala-siravi.deno.dev/)
 
 Create your live auto-update portfolio by fetching latest information from
 github.
@@ -9,6 +9,6 @@ github.
 
 1. Fork this repo.
 2. Update [profile.json](./profile.json) to have your information.
-3. Change [resume.pdf](./static/resume.pdf) with your resume file.
+3. Replace [Vimala_Siravi_FrontEnd_Developer.pdf](./static/Vimala_Siravi_FrontEnd_Developer.pdf) with your resume file.
 4. `deno task start` to check your profile.
 5. Deploy it to your favorite deployment server.
