@@ -6,14 +6,15 @@
   "website": "https://vimala-siravi.deno.dev/",
   "email": "vimala1995@gmail.com",
   "skills": [
-    "JavaScript / TypeScript",
-    "HTML / CSS / Tailwind / MUI",
-    "React.js / Redux",
-    "Bootstrap / Sass",
-    "Storybook",
-    "Node.js",
-    "Jest",
-    "React-Testing-Library"
+    "Next.js, React, Redux",
+    "TypeScript, Javascript",
+    "Tailwind, Material UI",
+    "React Testing Library, Jest",
+    "HTML, CSS",
+    "Node.js, NestJS, Express",
+    "MongoDB, PostgreSQL",
+    "Azure, GCP",
+    "Git"
   ],
   "experiences": [
     {
@@ -39,7 +40,7 @@
     },
     {
       "company": "Zensar Technologies",
-      "position": "Project Trainee",
+      "position": "Intern",
       "from": "March 2018",
       "to": "July 2018",
       "companyLink": "https://www.zensar.com/"
